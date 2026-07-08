@@ -1,0 +1,231 @@
+team,shootout_played,shootout_won,shootout_win_rate
+South Africa,28,13,0.464
+Egypt,26,15,0.577
+Zambia,25,14,0.56
+South Korea,25,15,0.6
+Iran,23,10,0.435
+Argentina,23,15,0.652
+Thailand,22,13,0.591
+Senegal,21,11,0.524
+Cameroon,18,9,0.5
+Malawi,18,4,0.222
+Ivory Coast,18,10,0.556
+Uganda,18,7,0.389
+Mali,18,8,0.444
+Nigeria,17,10,0.588
+Uruguay,17,9,0.529
+Kenya,16,10,0.625
+Brazil,16,9,0.562
+Gabon,15,5,0.333
+Algeria,15,7,0.467
+Iraq,15,11,0.733
+Italy,15,7,0.467
+Zimbabwe,15,7,0.467
+Mexico,14,7,0.5
+Spain,14,7,0.5
+Morocco,14,6,0.429
+Ghana,13,5,0.385
+Mozambique,13,8,0.615
+Lesotho,13,7,0.538
+Paraguay,13,6,0.462
+Tunisia,13,7,0.538
+Botswana,13,8,0.615
+Colombia,12,7,0.583
+Japan,12,5,0.417
+England,12,4,0.333
+France,11,5,0.455
+Burkina Faso,11,6,0.545
+India,11,5,0.455
+Syria,11,4,0.364
+Indonesia,11,10,0.909
+United Arab Emirates,11,5,0.455
+Croatia,11,7,0.636
+Angola,10,7,0.7
+United States,10,6,0.6
+Swaziland,10,5,0.5
+Mauritius,10,4,0.4
+Kuwait,10,4,0.4
+Singapore,10,3,0.3
+Namibia,10,5,0.5
+Costa Rica,10,2,0.2
+China,10,4,0.4
+Chile,10,5,0.5
+Netherlands,10,2,0.2
+Guinea,10,8,0.8
+Malaysia,10,4,0.4
+Martinique,9,7,0.778
+Saudi Arabia,9,7,0.778
+Qatar,9,5,0.556
+Tanzania,9,4,0.444
+Honduras,9,5,0.556
+Madagascar,8,2,0.25
+Switzerland,8,2,0.25
+Germany,8,6,0.75
+Portugal,8,5,0.625
+Australia,8,5,0.625
+Canada,8,3,0.375
+DR Congo,8,5,0.625
+Ethiopia,8,7,0.875
+Sierra Leone,8,2,0.25
+North Korea,7,4,0.571
+Denmark,7,2,0.286
+Russia,7,2,0.286
+Latvia,7,4,0.571
+Panama,7,5,0.714
+Abkhazia,6,2,0.333
+Guernsey,6,2,0.333
+Jersey,6,4,0.667
+Iraqi Kurdistan,6,1,0.167
+Padania,6,6,1.0
+Réunion,6,4,0.667
+Libya,6,1,0.167
+Finland,6,2,0.333
+Sweden,6,4,0.667
+Estonia,6,2,0.333
+Rwanda,5,2,0.4
+New Caledonia,5,3,0.6
+Uzbekistan,5,2,0.4
+Guatemala,5,4,0.8
+Chad,5,3,0.6
+Equatorial Guinea,5,1,0.2
+Cape Verde,5,2,0.4
+Sri Lanka,5,3,0.6
+Oman,5,4,0.8
+Hong Kong,5,1,0.2
+Bangladesh,5,2,0.4
+Peru,5,2,0.4
+Trinidad and Tobago,5,2,0.4
+Romania,4,1,0.25
+Ecuador,4,2,0.5
+Republic of Ireland,4,1,0.25
+Cuba,4,1,0.25
+Saint Kitts and Nevis,4,2,0.5
+Gambia,4,3,0.75
+Ellan Vannin,4,2,0.5
+Tajikistan,4,3,0.75
+Bosnia and Herzegovina,4,3,0.75
+Niger,4,1,0.25
+Nepal,4,3,0.75
+Seychelles,4,4,1.0
+Togo,4,3,0.75
+New Zealand,4,1,0.25
+Suriname,4,2,0.5
+Czech Republic,4,3,0.75
+Burundi,4,0,0.0
+Poland,4,3,0.75
+Northern Cyprus,4,2,0.5
+French Guiana,4,0,0.0
+Ukraine,4,3,0.75
+Guadeloupe,4,2,0.5
+Cambodia,3,0,0.0
+Vietnam Republic,3,2,0.667
+Czechoslovakia,3,3,1.0
+Åland Islands,3,3,1.0
+British Virgin Islands,3,2,0.667
+Jordan,3,0,0.0
+Lithuania,3,1,0.333
+United Koreans in Japan,3,2,0.667
+Venezuela,3,0,0.0
+Mayotte,3,2,0.667
+Central African Republic,3,1,0.333
+Somalia,3,0,0.0
+Solomon Islands,3,1,0.333
+Greece,3,0,0.0
+Bahrain,3,3,1.0
+Sudan,3,1,0.333
+Kárpátalja,3,2,0.667
+Jamaica,3,1,0.333
+Belarus,3,1,0.333
+Kazakhstan,3,3,1.0
+Zanzibar,3,2,0.667
+Benin,3,3,1.0
+Serbia,3,1,0.333
+Western Isles,2,1,0.5
+Guinea-Bissau,2,0,0.0
+Myanmar,2,1,0.5
+Yugoslavia,2,0,0.0
+Bolivia,2,1,0.5
+Congo,2,0,0.0
+Mauritania,2,0,0.0
+Belgium,2,2,1.0
+Fiji,2,1,0.5
+Greenland,2,2,1.0
+Tahiti,2,2,1.0
+El Salvador,2,0,0.0
+Austria,2,0,0.0
+Slovenia,2,1,0.5
+Corsica,2,1,0.5
+Israel,2,1,0.5
+Cyprus,2,2,1.0
+Barbados,2,1,0.5
+Antigua and Barbuda,2,2,1.0
+Guyana,2,1,0.5
+Saint Lucia,2,1,0.5
+Georgia,2,1,0.5
+Haiti,2,1,0.5
+Maldives,2,0,0.0
+Ynys Môn,2,1,0.5
+Chameria,2,0,0.0
+Wales,2,0,0.0
+Papua New Guinea,2,0,0.0
+Vietnam,2,2,1.0
+Panjab,2,1,0.5
+Comoros,2,1,0.5
+Gozo,2,2,1.0
+United States Virgin Islands,2,1,0.5
+Turks and Caicos Islands,2,0,0.0
+Vanuatu,2,1,0.5
+Slovakia,2,2,1.0
+Felvidék,2,1,0.5
+Western Armenia,2,2,1.0
+Curaçao,2,0,0.0
+Sealand,2,1,0.5
+South Ossetia,2,2,1.0
+Aruba,2,1,0.5
+Chagos Islands,2,1,0.5
+Scotland,2,2,1.0
+Iceland,2,2,1.0
+Menorca,2,1,0.5
+Taiwan,1,1,1.0
+Pakistan,1,0,0.0
+Saare County,1,0,0.0
+Bulgaria,1,1,1.0
+Turkey,1,1,1.0
+Provence,1,0,0.0
+Sápmi,1,1,1.0
+Armenia,1,0,0.0
+North Macedonia,1,0,0.0
+Hungary,1,1,1.0
+Sint Maarten,1,0,0.0
+Brunei,1,0,0.0
+Hitra,1,0,0.0
+Laos,1,0,0.0
+Macau,1,1,1.0
+Gibraltar,1,0,0.0
+Basque Country,1,1,1.0
+Raetia,1,1,1.0
+Occitania,1,0,0.0
+Alderney,1,0,0.0
+Isle of Man,1,0,0.0
+County of Nice,1,1,1.0
+Tibet,1,0,0.0
+Székely Land,1,0,0.0
+Cascadia,1,0,0.0
+Matabeleland,1,0,0.0
+Andorra,1,0,0.0
+Moldova,1,0,0.0
+Liberia,1,0,0.0
+Djibouti,1,0,0.0
+Northern Ireland,1,1,1.0
+Kabylia,1,1,1.0
+Orkney,1,0,0.0
+Grenada,1,0,0.0
+Puerto Rico,1,1,1.0
+Anguilla,1,1,1.0
+Falkland Islands,1,0,0.0
+Lebanon,1,0,0.0
+Philippines,1,0,0.0
+Shetland,1,0,0.0
+Palestine,1,1,1.0
+Yemen,1,0,0.0
+Azerbaijan,1,1,1.0

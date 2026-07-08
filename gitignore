@@ -1,0 +1,30 @@
+# ── Data files (too large for GitHub) ──
+data/raw/
+data/processed/
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Logs ──
+*.log

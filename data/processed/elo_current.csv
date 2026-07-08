@@ -1,0 +1,218 @@
+team,elo,rank
+Spain,2219.8,1
+Argentina,2207.0,2
+France,2173.2,3
+England,2130.5,4
+Colombia,2100.8,5
+Norway,2081.2,6
+Brazil,2080.1,7
+Morocco,2039.5,8
+Netherlands,2037.2,9
+Germany,2032.2,10
+Portugal,2018.8,11
+United States,2013.2,12
+Switzerland,1976.0,13
+Japan,1974.9,14
+Mexico,1959.7,15
+Egypt,1950.1,16
+Nigeria,1939.9,17
+Croatia,1926.8,18
+Yugoslavia,1914.9,19
+Australia,1911.6,20
+Uruguay,1891.5,21
+Paraguay,1886.6,22
+Ecuador,1882.5,23
+Iran,1875.2,24
+Denmark,1873.7,25
+Ivory Coast,1848.5,26
+Austria,1846.0,27
+Belgium,1839.8,28
+Italy,1832.8,29
+Senegal,1830.3,30
+Ghana,1826.4,31
+Cape Verde,1820.6,32
+Algeria,1802.6,33
+DR Congo,1797.1,34
+New Zealand,1784.8,35
+Scotland,1777.8,36
+Turkey,1776.2,37
+Canada,1774.4,38
+Russia,1767.5,39
+Bolivia,1767.0,40
+South Korea,1766.4,41
+Venezuela,1756.2,42
+Greece,1756.1,43
+Kosovo,1753.6,44
+Serbia,1752.7,45
+Costa Rica,1750.0,46
+Czechoslovakia,1747.7,47
+Cameroon,1742.2,48
+Sweden,1739.3,49
+Peru,1739.2,50
+South Africa,1733.3,51
+Saudi Arabia,1727.7,52
+Iraq,1723.3,53
+Uzbekistan,1718.1,54
+Chile,1715.5,55
+Ukraine,1715.3,56
+Republic of Ireland,1712.2,57
+Wales,1710.0,58
+Bosnia and Herzegovina,1697.8,59
+Panama,1689.6,60
+Hungary,1685.8,61
+Poland,1684.9,62
+United Arab Emirates,1681.2,63
+Guatemala,1674.2,64
+Curaçao,1672.5,65
+Albania,1651.4,66
+Jamaica,1648.7,67
+Mali,1645.0,68
+Slovenia,1642.9,69
+Czech Republic,1641.4,70
+Slovakia,1640.0,71
+Jordan,1631.4,72
+Georgia,1621.5,73
+Romania,1619.7,74
+Honduras,1619.1,75
+Burkina Faso,1610.6,76
+German DR,1609.6,77
+Palestine,1607.4,78
+Israel,1606.4,79
+New Caledonia,1605.0,80
+North Macedonia,1597.7,81
+Haiti,1594.3,82
+Trinidad and Tobago,1592.2,83
+Syria,1580.1,84
+Suriname,1573.1,85
+Oman,1571.1,86
+Northern Ireland,1567.2,87
+Libya,1560.3,88
+Tunisia,1555.3,89
+Niger,1554.7,90
+Angola,1544.0,91
+Fiji,1541.3,92
+Solomon Islands,1537.3,93
+Benin,1536.8,94
+Madagascar,1532.9,95
+Guinea,1530.4,96
+Thailand,1524.8,97
+Qatar,1524.1,98
+Indonesia,1517.9,99
+Tajikistan,1517.0,100
+Iceland,1516.6,101
+Gabon,1507.6,102
+Kyrgyzstan,1506.6,103
+Vanuatu,1499.6,104
+China,1499.5,105
+Gambia,1495.6,106
+Sierra Leone,1495.3,107
+Nicaragua,1491.7,108
+Uganda,1491.1,109
+Liberia,1485.2,110
+Tahiti,1482.9,111
+Mozambique,1482.8,112
+Bahrain,1469.6,113
+El Salvador,1465.8,114
+Lesotho,1463.1,115
+North Korea,1461.0,116
+Malawi,1456.3,117
+Zambia,1455.7,118
+Belarus,1455.7,119
+Puerto Rico,1455.7,120
+Saarland,1452.1,121
+Namibia,1449.5,122
+Tanzania,1448.0,123
+Comoros,1441.0,124
+Sudan,1427.5,125
+Kazakhstan,1425.6,126
+Finland,1423.0,127
+Kuwait,1412.8,128
+Kenya,1412.8,129
+Lebanon,1410.6,130
+Equatorial Guinea,1407.8,131
+Togo,1405.5,132
+Cuba,1400.4,133
+Dominican Republic,1398.9,134
+Guyana,1398.5,135
+Bulgaria,1398.2,136
+Faroe Islands,1395.8,137
+Papua New Guinea,1391.2,138
+Rwanda,1384.3,139
+Montenegro,1383.1,140
+Grenada,1382.3,141
+Turkmenistan,1379.1,142
+Yemen DPR,1371.5,143
+Congo,1357.5,144
+Ethiopia,1355.1,145
+Saint Kitts and Nevis,1354.3,146
+Afghanistan,1352.3,147
+Zimbabwe,1342.9,148
+Armenia,1340.5,149
+Mauritania,1335.9,150
+Malaysia,1332.9,151
+Botswana,1329.5,152
+South Sudan,1327.9,153
+Antigua and Barbuda,1326.8,154
+Bermuda,1320.7,155
+Vietnam,1318.8,156
+Samoa,1312.7,157
+Luxembourg,1306.7,158
+Burundi,1296.5,159
+Guinea-Bissau,1289.1,160
+Yemen,1288.8,161
+Montserrat,1286.4,162
+Central African Republic,1281.6,163
+Hong Kong,1271.9,164
+India,1270.4,165
+Belize,1270.3,166
+Cyprus,1268.7,167
+Swaziland,1268.1,168
+Azerbaijan,1259.9,169
+Eritrea,1255.3,170
+Philippines,1252.1,171
+Saint Lucia,1251.5,172
+Estonia,1249.1,173
+Bhutan,1244.5,174
+Saint Vincent and the Grenadines,1238.0,175
+Singapore,1237.9,176
+Maldives,1234.3,177
+American Samoa,1234.0,178
+Latvia,1231.1,179
+Moldova,1227.9,180
+São Tomé and Príncipe,1223.3,181
+Dominica,1206.7,182
+Mauritius,1206.2,183
+Mongolia,1205.9,184
+Malta,1205.8,185
+Myanmar,1191.3,186
+Aruba,1189.6,187
+Chad,1185.4,188
+Lithuania,1183.1,189
+Nepal,1180.6,190
+Barbados,1179.1,191
+Somalia,1175.7,192
+Tonga,1171.0,193
+Bahamas,1167.5,194
+Vietnam Republic,1163.9,195
+Cayman Islands,1155.7,196
+Bangladesh,1147.9,197
+Cook Islands,1140.0,198
+Guam,1099.5,199
+Turks and Caicos Islands,1091.0,200
+Laos,1075.2,201
+Djibouti,1072.1,202
+British Virgin Islands,1043.1,203
+Sri Lanka,1036.2,204
+United States Virgin Islands,1025.2,205
+Cambodia,1021.4,206
+Seychelles,1018.5,207
+Anguilla,1005.8,208
+Andorra,1004.5,209
+Brunei,1002.9,210
+Taiwan,999.9,211
+Pakistan,998.9,212
+Macau,940.1,213
+Gibraltar,915.8,214
+East Timor,897.0,215
+San Marino,776.3,216
+Liechtenstein,753.3,217
