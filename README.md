@@ -19,13 +19,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🌍 **Try the app here:**
-(https://wc2026-match-predictor-worldcup.streamlit.app/)
-
----
-
 ## 👤 Author
 
 <table>
