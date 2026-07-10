@@ -15,7 +15,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wc2026-match-predictor-worldcup.streamlit.app/)
 
-👉 **Live App:** [(https://wc2026-match-predictor-worldcup.streamlit.app/)]
+👉 **Live App:** (https://wc2026-match-predictor-worldcup.streamlit.app/)
 
 ---
 
